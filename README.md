@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🍄 I'm a Computer Science first-year Student.
+- 🌱 I’m currently learning Python and JavaScript.
+- 🎯 I'm looking forward to learn more programming lang.
+- ⚡ Fun fact: I can do some Art Stuff too .  
+  
 <!--
 **lifeaboutgreatgift/lifeaboutgreatgift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
