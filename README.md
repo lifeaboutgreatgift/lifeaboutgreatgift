@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning Python and JavaScript.
 - 🎯 I'm looking forward to learn more programming lang.
 - ⚡ Fun fact: I can do some Art Stuff too .  
-  
+
+
+
+  ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@conradfisher/30-nites-of-code)  
+  ![@conradfisher #30NitesOfCode](https://www.codedex.io/api/petStatus?user=conradfisher)
 <!--
 **lifeaboutgreatgift/lifeaboutgreatgift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
