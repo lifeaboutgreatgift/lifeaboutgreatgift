@@ -6,9 +6,7 @@
 
 
 
-  ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@conradfisher/30-nites-of-code)  
-  ![@conradfisher #30NitesOfCode](https://www.codedex.io/api/petStatus?user=conradfisher)
+ 
 <!--
 **lifeaboutgreatgift/lifeaboutgreatgift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
