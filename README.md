@@ -1,7 +1,10 @@
 ## Hi there 👋
-- 🍄 I'm a Computer Science first-year Student.
+- 🍄 I'm a Computer Science Student.
+- 🔭 I’m currently working on projects for Portfolio.
 - 🌱 I’m currently learning Python and JavaScript.
 - 🎯 I'm looking forward to learn more programming lang.
+- 🎓 I graduated high school last year(2025).
+- 🔥 Love adventure, capture new cool tech design and make it.
 - ⚡ Fun fact: I can do some Art Stuff too .  
 
 
