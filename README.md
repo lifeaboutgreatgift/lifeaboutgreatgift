@@ -12,7 +12,7 @@
 
 ### 📎 About Me
 I love discovering something new every single day. I thrive on creative ideas and making them come alive through hands-on experimentation. 🌿  
-Outside the terminal, I live in two completely different worlds. I crave the adrenaline rush of chasing new adventures and pushing limits, but I'm equally happy slowing down and getting completely lost in a good book.
+Outside the terminal, I live in two completely different worlds. I crave the adrenaline rush of chasing new adventures and pushing limits, but I'm equally happy slowing down and getting completely lost in a good book or exploring underrated gems.
 
 🔭 &nbsp;I'm currently working on **Building responsive web projects and logic scripts.**  
 🌱 &nbsp;I'm currently learning **Advanced JavaScript, Python basics, and web development.**  
@@ -44,12 +44,13 @@ Outside the terminal, I live in two completely different worlds. I crave the adr
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=lifeaboutgreatgift&show_icons=true&theme=radical&text_color=13141e&title_color=db7f8e&icon_color=d3968c&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=lifeaboutgreatgift&show_icons=true&theme=radical&text_color=ffd166&title_color=db7f8e&icon_color=d3968c&hide_border=true&bg_color=00000000&count_private=true" alt="stats"/>
   <!-- CHANGED: theme tokyonight → radical -->
   <!-- CHANGED: title_color f43f5e → f72585 -->
   <!-- CHANGED: icon_color f43f5e → b44be1 -->
 
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=lifeaboutgreatgift&layout=compact&theme=radical&text_color=13141e&title_color=db7f8e&icon_color=d3968c&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=lifeaboutgreatgift&layout=compact&theme=radical&text_color=ffd166&title_color=db7f8e&icon_color=d3968c&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs"  />
   <!-- CHANGED: theme tokyonight → radical -->
   <!-- CHANGED: title_color f43f5e → f72585 -->
   <!-- CHANGED: icon_color f43f5e → b44be1 -->
