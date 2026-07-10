@@ -56,6 +56,17 @@ Outside the terminal, I live in two completely different worlds. I crave the adr
  
 </p>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/lifeaboutgreatgift/lifeaboutgreatgift/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/lifeaboutgreatgift/lifeaboutgreatgift/output/github-snake.svg" />
+  <img alt="github-snake"
+       src="https://raw.githubusercontent.com/lifeaboutgreatgift/lifeaboutgreatgift/output/github-snake-dark.svg" />
+</picture>
+
 ---
 <p align="center">
 <i>thanks for stopping by</i><br>
