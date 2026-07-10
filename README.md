@@ -1,16 +1,16 @@
 <p align="center">
   <a href="https://github.com/lifeaboutgreatgift">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=b56387&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Afroj" alt="Hello! I&#39;m Afroj" />
-    <!-- CHANGED: fontColor f43f5e → f72585 (hot pink) -->
+    
   </a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=730&height=44&lines=Aspiring%20software%20engineer!;Spaghetti%20code%20specialist%2C%20will%20code%20for%20pizza" alt="Typing headlines" />
-  <!-- CHANGED: color ff9bce → b44be1 (purple) -->
+  
 </p>
 
-### 📎 About Me
+### <i> About Me</i>
 I love discovering something new every single day. I thrive on creative ideas and making them come alive through hands-on experimentation. 🌿  
 Outside the terminal, I live in two completely different worlds. I crave the adrenaline rush of chasing new adventures and pushing limits, but I'm equally happy slowing down and getting completely lost in a good book or exploring underrated gems.
 
@@ -45,23 +45,15 @@ Outside the terminal, I live in two completely different worlds. I crave the adr
 ### 📊 GitHub Stats
 <p align="center">
 
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=lifeaboutgreatgift&show_icons=true&theme=radical&text_color=ffd166&title_color=db7f8e&icon_color=d3968c&hide_border=true&bg_color=00000000&count_private=true" alt="stats"/>
-  <!-- CHANGED: theme tokyonight → radical -->
-  <!-- CHANGED: title_color f43f5e → f72585 -->
-  <!-- CHANGED: icon_color f43f5e → b44be1 -->
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=lifeaboutgreatgift&show_icons=true&theme=radical&text_color=db7f8e&title_color=4c9db0&icon_color=d3968c&hide_border=true&bg_color=00000000&count_private=true" alt="stats"/>
 
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=lifeaboutgreatgift&layout=compact&theme=radical&text_color=ffd166&title_color=db7f8e&icon_color=d3968c&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs"  />
-  <!-- CHANGED: theme tokyonight → radical -->
-  <!-- CHANGED: title_color f43f5e → f72585 -->
-  <!-- CHANGED: icon_color f43f5e → b44be1 -->
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=lifeaboutgreatgift&layout=compact&theme=radical&text_color=4c9db0&title_color=db7f8e&icon_color=d3968c&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs"  />
 </p>
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lifeaboutgreatgift&bg_color=00000000&color=db7f8e&line=b22222&point=8d3136&area=true&hide_border=true" alt="activity graph" />
-  <!-- CHANGED: color f43f5e → b44be1 (purple dots) -->
-  <!-- CHANGED: line f43f5e → f72585 (pink line) -->
-  <!-- CHANGED: point c9d1d9 → ffffff (white points) -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lifeaboutgreatgift&bg_color=00000000&color=4c9db0&line=780000&point=ba1b18&area=true&hide_border=true" alt="activity graph" />
+ 
 </p>
 
 ---
