@@ -32,6 +32,16 @@ Outside the terminal, I live in two completely different worlds. I crave the adr
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
+### 🌸 Featured Project
+
+<p align="center">
+  <a href="https://lifeaboutgreatgift.github.io/Fiction-blog/">
+    <img src="./assets/fiction-card.svg" 
+         alt="Fiction Blog Project" 
+         width="480" />
+  </a>
+</p>
+
 ### 🔗 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/afroj10" target="_blank" rel="noopener noreferrer">
