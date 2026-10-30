@@ -60,12 +60,6 @@ Outside the terminal, I live in two completely different worlds. I crave the adr
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=lifeaboutgreatgift&layout=compact&theme=radical&text_color=4c9db0&title_color=db7f8e&icon_color=d3968c&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs"  />
 </p>
 
-### 📈 Contribution Graph
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lifeaboutgreatgift&bg_color=00000000&color=4c9db0&line=780000&point=ba1b18&area=true&hide_border=true" alt="activity graph" />
- 
-</p>
-
 ### 🐍 Contribution Snake
 
 <picture>
